@@ -1,0 +1,62 @@
+[14-Jan-2018 13:23:18 UTC] PHP Fatal error:  Out of memory (allocated 26214400) (tried to allocate 16000 bytes) in /home/hvcarpetcleaning/public_html/wp-content/plugins/ewww-image-optimizer/common.php on line 3893
+[06-Feb-2018 17:47:21 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[07-Feb-2018 05:45:09 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[07-Feb-2018 18:19:45 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[08-Feb-2018 07:50:56 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[08-Feb-2018 18:32:20 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[08-Feb-2018 20:54:09 UTC] PHP Fatal error:  Out of memory (allocated 34865152) (tried to allocate 94 bytes) in /home/hvcarpetcleaning/public_html/wp-includes/post.php on line 1433
+[08-Feb-2018 20:54:09 UTC] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[09-Feb-2018 06:23:56 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[09-Feb-2018 23:29:50 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[10-Feb-2018 08:06:38 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[10-Feb-2018 17:58:24 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[11-Feb-2018 06:02:10 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[11-Feb-2018 17:57:42 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Feb-2018 05:43:03 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Feb-2018 18:16:59 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[13-Feb-2018 06:25:18 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[13-Feb-2018 19:10:21 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[14-Feb-2018 06:03:48 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[14-Feb-2018 18:14:44 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[15-Feb-2018 06:45:09 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[15-Feb-2018 17:44:07 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[16-Feb-2018 06:06:28 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[16-Feb-2018 18:20:11 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[17-Feb-2018 05:43:06 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[17-Feb-2018 18:12:06 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[18-Feb-2018 06:53:52 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[18-Feb-2018 18:05:13 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[19-Feb-2018 06:22:00 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[19-Feb-2018 18:35:04 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[20-Feb-2018 05:55:42 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[20-Feb-2018 19:13:28 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[21-Feb-2018 06:51:07 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[21-Feb-2018 18:02:35 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[22-Feb-2018 06:20:58 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[22-Feb-2018 13:53:24 UTC] PHP Fatal error:  Out of memory (allocated 19136512) (tried to allocate 3072 bytes) in /home/hvcarpetcleaning/public_html/wp-settings.php on line 237
+[22-Feb-2018 18:55:40 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[23-Feb-2018 05:51:45 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[23-Feb-2018 18:10:29 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[24-Feb-2018 06:13:15 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[24-Feb-2018 20:42:46 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[25-Feb-2018 06:21:28 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[25-Feb-2018 18:23:57 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[26-Feb-2018 06:19:36 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[26-Feb-2018 17:48:38 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[27-Feb-2018 05:43:50 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[27-Feb-2018 17:48:07 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[28-Feb-2018 07:43:02 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[28-Feb-2018 17:56:13 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[01-Mar-2018 06:02:33 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[01-Mar-2018 17:42:43 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[02-Mar-2018 05:45:44 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[02-Mar-2018 18:01:26 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[03-Mar-2018 05:42:57 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[03-Mar-2018 17:47:38 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[04-Mar-2018 05:43:52 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[04-Mar-2018 17:48:07 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[05-Mar-2018 05:54:55 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[05-Mar-2018 18:50:23 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/hvcarpetcleaning/public_html/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[08-Jul-2018 10:16:03 UTC] WordPress database error Got error 28 from storage engine for query SHOW FULL COLUMNS FROM `wp_options` made by call_user_func_array, wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[08-Jul-2018 10:16:03 UTC] WordPress database error Got error 28 from storage engine for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[08-Jul-2018 10:16:03 UTC] WordPress database error Got error 28 from storage engine for query SHOW FULL COLUMNS FROM `wp_options` made by call_user_func_array, wp_reschedule_event, wp_schedule_event, _set_cr

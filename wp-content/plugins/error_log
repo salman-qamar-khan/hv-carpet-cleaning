@@ -1,0 +1,10 @@
+[25-May-2017 18:54:50 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/hvcarpetcleaning/public_html/wp-content/plugins/hello.php on line 60
+[11-Jan-2018 06:10:17 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/hvcarpetcleaning/public_html/wp-content/plugins/hello.php on line 60
+[12-Jan-2018 13:50:02 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/hvcarpetcleaning/public_html/wp-content/plugins/hello.php on line 60
+[29-Jan-2018 01:24:37 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/hvcarpetcleaning/public_html/wp-content/plugins/hello.php on line 60
+[06-Feb-2018 16:28:58 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/hvcarpetcleaning/public_html/wp-content/plugins/hello.php on line 60
+[19-Feb-2018 00:38:45 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/hvcarpetcleaning/public_html/wp-content/plugins/hello.php on line 60
+[31-May-2018 11:22:16 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/hvcarpetcleaning/public_html/wp-content/plugins/hello.php on line 60
+[14-Jul-2018 18:40:36 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/hvcarpetcleaning/public_html/wp-content/plugins/hello.php on line 60
+[07-Nov-2018 17:54:00 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/hvcarpetcleaning/public_html/wp-content/plugins/hello.php on line 60
+[07-Nov-2018 17:54:04 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/hvcarpetcleaning/public_html/wp-content/plugins/hello.php on line 60

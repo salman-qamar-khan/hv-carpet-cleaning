@@ -1,0 +1,1 @@
+[10-Feb-2018 11:55:03 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home/hvcarpetcleaning/public_html/wp-includes/theme-compat/embed-content.php on line 13

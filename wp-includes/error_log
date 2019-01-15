@@ -1,0 +1,6 @@
+[19-Jan-2018 18:57:42 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/hvcarpetcleaning/public_html/wp-includes/locale.php on line 10
+[14-Mar-2018 14:25:58 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/hvcarpetcleaning/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[22-Mar-2018 23:59:24 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/hvcarpetcleaning/public_html/wp-includes/locale.php on line 10
+[19-Nov-2018 18:58:11 America/Chicago] PHP Fatal error:  Call to undefined function is_robots() in /home/hvcarpetcleaning/public_html/wp-includes/template-loader.php on line 28
+[14-Dec-2018 01:42:44 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/hvcarpetcleaning/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[14-Dec-2018 07:15:34 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/hvcarpetcleaning/public_html/wp-includes/class-walker-nav-menu.php on line 17

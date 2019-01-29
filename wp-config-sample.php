@@ -28,7 +28,7 @@ define('DB_USER', '');
 /** MySQL database password */
 define('DB_PASSWORD', 'password_here');
 
-/** MySQL hostname */
+111/** MySQL hostname */
 define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
